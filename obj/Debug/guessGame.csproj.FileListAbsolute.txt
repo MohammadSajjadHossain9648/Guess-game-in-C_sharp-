@@ -1,0 +1,8 @@
+E:\git\guessGame\bin\Debug\guessGame.exe.config
+E:\git\guessGame\bin\Debug\guessGame.exe
+E:\git\guessGame\bin\Debug\guessGame.pdb
+E:\git\guessGame\obj\Debug\guessGame.csproj.AssemblyReference.cache
+E:\git\guessGame\obj\Debug\guessGame.csproj.SuggestedBindingRedirects.cache
+E:\git\guessGame\obj\Debug\guessGame.csproj.CoreCompileInputs.cache
+E:\git\guessGame\obj\Debug\guessGame.exe
+E:\git\guessGame\obj\Debug\guessGame.pdb
